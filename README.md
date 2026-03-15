@@ -4,6 +4,8 @@ Projeto proposto pela DIO, Desafio do curso de Cibersegurança da Riachuelo.
 Desafio do curso de Cibersegurança da Riachuelo. O desafio propõe a criação de um caderno temático no NotebookLM, reunindo fontes abertas em texto ou PDF sobre um assunto da sua escolha.
 Este projeto visa oferecer um guia de estudos voltados ao tema do meu TCC de Ciências da Computação usando NotebookLM com fontes em pdf, textos e vídeos referência.
 
+https://notebooklm.google.com/notebook/7ee8ab23-0ef1-4832-a451-0c0be2eb0897
+
 # 🎯 Contexto e Objetivos
 
 No sistema público de saúde, especialmente nas **Unidades Básicas de Saúde (UBS)**, um dos principais desafios é a **organização do atendimento de pacientes**.
